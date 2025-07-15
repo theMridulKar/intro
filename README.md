@@ -32,11 +32,7 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 
 ## 📈 GitHub Stats
 
-![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=theMridulKar&show_icons=true&theme=tokyonight&cache_seconds=1)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=theMridulKar&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theMridulKar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
